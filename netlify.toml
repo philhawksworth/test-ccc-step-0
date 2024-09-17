@@ -1,6 +1,6 @@
 [build] 
   publish = "www"
-  command = ""
+  command = "echo 'no build, really' "
 
 [dev] 
   publish = "www"
